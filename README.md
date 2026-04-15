@@ -43,5 +43,9 @@ I am a final-semester engineer focused on building production-grade systems that
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmanabhan-v-43a809334/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monkelo2004@gmail.com)
+### 🧩 LeetCode Stats
+<p align="left">
+  <img src="https://leetcode-badge-sage.vercel.app/badge/monk_1504?theme=dark" alt="LeetCode Stats" />
+</p>
 
 ---
